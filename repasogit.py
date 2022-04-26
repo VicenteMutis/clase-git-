@@ -18,6 +18,20 @@ antes la rama se llamaba master, (maestro y esclavo xd), ahora se llama main.
 
 #Desarrollo
 
+en primer lugar.... vamos .... blabla
+
 #Conclusión 
 
+#Porque no me deja hacer un commit? 
+
+git status 
+git log ¿qué hace git log? 
+
+primero git add . 
+y luego git commit 
+
+qué hacía git diff? 
+asd
+
+#Git status es Algo muy importante, para ver que no he metido nada. 
 
