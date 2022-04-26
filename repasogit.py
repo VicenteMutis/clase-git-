@@ -32,6 +32,17 @@ y luego git commit
 
 qué hacía git diff? 
 asd
+git add . AGREGA TODO lo del archivo
+git pull
+git checkout -b (crear rama)
+
+git branch nos dice en que rama estamos 
+perceto, veremos el estado 
+
+¿cuál es la diferencia entre git add y git commit -m ? 
+no le caché muy bien xd 
+
+aos.txt no quería subirlo a github (y no lo hice)
 
 #Git status es Algo muy importante, para ver que no he metido nada. 
 
